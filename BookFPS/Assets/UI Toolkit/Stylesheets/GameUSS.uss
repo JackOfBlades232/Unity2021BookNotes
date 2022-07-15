@@ -1,0 +1,7 @@
+.HUDText {
+    -unity-font: none;
+    -unity-text-align: middle-left;
+    font-size: 41px;
+    color: rgb(255, 255, 255);
+    -unity-font-style: bold;
+}
